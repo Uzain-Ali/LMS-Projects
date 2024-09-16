@@ -1,0 +1,6 @@
+uzain here
+to run this project download pycharm or vs code for better experience with 
+mysql(https://dev.mysql.com/downloads/installer/)(Windows (x86, 32-bit), MSI Installer 5.5M))
+during download of mysql secure it by giving it password it will ask you then the password you allocate to it will be used in the code put mine sql code in mysql after
+creating database "rms" and then use it then create all tables where data will be install this will also teach you how to use sql queries
+Thank You  
